@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Deep Learning、Computer Vision、PyTorch...etc**
 
-- 📝 I regularly write articles on [https://hackmd.io/@Hong-Jia](https://hackmd.io/@Hong-Jia)
+- 📝 I I occasionally write articles on [https://hackmd.io/@Hong-Jia](https://hackmd.io/@Hong-Jia)
 
 - 📫 How to reach me **wilile26811249@gmail.com**
 
