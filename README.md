@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hong-Jia Chen (Willie)</h1>
-<h3 align="center">Master student at National Chung Cheng University</h3>
+<h1 align="center">Hi 👋, I'm Willie</h1>
 
 - 🌱 I’m currently learning **Deep Learning、Computer Vision、PyTorch...etc**
-
-- 📝 I occasionally write articles on [https://hackmd.io/@Hong-Jia](https://hackmd.io/@Hong-Jia)
-
-- 📫 How to reach me **wilile26811249@gmail.com**
 
 
 ---
